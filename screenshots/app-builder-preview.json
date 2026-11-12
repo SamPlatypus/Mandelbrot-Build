@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mandelbrot",
+      "hasCanvas": false,
+      "bodyTextLen": 19,
+      "bodyTextHash": "81a7d7d3295fc5ab143955db38c504e77af3565cfd05f972238c2c19d13b7231",
+      "bodyTextPrefix": "Mandelbrot explorer",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mandelbrot",
+      "hasCanvas": true,
+      "bodyTextLen": 19,
+      "bodyTextHash": "81a7d7d3295fc5ab143955db38c504e77af3565cfd05f972238c2c19d13b7231",
+      "bodyTextPrefix": "Mandelbrot explorer",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
